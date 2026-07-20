@@ -1,23 +1,5 @@
-# Sorting Skip Limit
+# Sorting, Skip, Limit
 
-> Part of the MongoDB Professional Notes series.
+`sort()`, `limit()`, `skip()` for pagination.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Updating Documents – $set, $push, $pop, $inc](08-updating-documents-operators-set-push-pop-inc.md)

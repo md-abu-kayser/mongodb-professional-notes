@@ -1,23 +1,5 @@
-# Projection And Limiting Fields
+# Projection & Limiting Fields
 
-> Part of the MongoDB Professional Notes series.
+Return only specific fields in query results.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Sorting, Skip, Limit](07-sorting-skip-limit.md)

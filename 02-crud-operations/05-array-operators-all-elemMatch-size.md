@@ -1,23 +1,5 @@
-# Array Operators All Elemmatch Size
+# Array Operators – $all, $elemMatch, $size
 
-> Part of the MongoDB Professional Notes series.
+Match elements in arrays.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Projection & Limiting Fields](06-projection-and-limiting-fields.md)
