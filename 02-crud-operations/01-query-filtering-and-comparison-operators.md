@@ -1,23 +1,5 @@
-# Query Filtering And Comparison Operators
+# Query Filtering & Comparison Operators
 
-> Part of the MongoDB Professional Notes series.
+`$eq`, `$ne`, `$gt`, `$gte`, `$lt`, `$lte`, `$in`, `$nin`.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Logical Operators – $and, $or, $not](02-logical-operators-and-or-not.md)
