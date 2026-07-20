@@ -1,23 +1,5 @@
-# Creating And Dropping Databases Collections
+# Creating & Dropping Databases/Collections
 
-> Part of the MongoDB Professional Notes series.
+`use mydb`, `db.createCollection('users')`, `db.users.drop()`.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Inserting Documents](05-inserting-documents.md)
