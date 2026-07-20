@@ -1,23 +1,5 @@
-# Updating Documents Operators Set Push Pop Inc
+# Updating Documents – $set, $push, $pop, $inc
 
-> Part of the MongoDB Professional Notes series.
+Modify existing documents.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Upsert & replaceOne](09-upsert-and-replaceOne.md)

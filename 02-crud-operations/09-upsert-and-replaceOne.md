@@ -1,23 +1,5 @@
-# Upsert And Replaceone
+# Upsert & replaceOne
 
-> Part of the MongoDB Professional Notes series.
+Insert if not exists (upsert). Replace entire document.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Deleting Documents – deleteOne, deleteMany](10-deleting-documents-deleteOne-deleteMany.md)

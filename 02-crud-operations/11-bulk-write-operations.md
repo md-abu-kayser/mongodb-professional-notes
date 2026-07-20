@@ -1,23 +1,5 @@
 # Bulk Write Operations
 
-> Part of the MongoDB Professional Notes series.
+`bulkWrite()` for ordered/unordered batch operations.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: **03-indexing** – [Single Field & Compound Indexes](../03-indexing/01-single-field-and-compound-indexes.md)

@@ -1,23 +1,5 @@
-# Deleting Documents Deleteone Deletemany
+# Deleting Documents
 
-> Part of the MongoDB Professional Notes series.
+`deleteOne`, `deleteMany`.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Bulk Write Operations](11-bulk-write-operations.md)
