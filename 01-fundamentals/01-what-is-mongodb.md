@@ -1,23 +1,5 @@
-# What Is Mongodb
+# What is MongoDB?
 
-> Part of the MongoDB Professional Notes series.
+A document‑oriented NoSQL database designed for scalability, performance, and developer agility.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Databases, Collections, Documents](02-databases-collections-documents.md)
