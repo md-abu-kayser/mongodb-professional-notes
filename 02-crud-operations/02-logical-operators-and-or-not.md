@@ -1,23 +1,5 @@
-# Logical Operators And Or Not
+# Logical Operators – $and, $or, $not
 
-> Part of the MongoDB Professional Notes series.
+Combine conditions.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Element Operators – $exists, $type](03-element-operators-exists-type.md)

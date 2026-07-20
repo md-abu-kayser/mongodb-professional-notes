@@ -1,23 +1,5 @@
-# Evaluation Operators Regex Expr Jsonschema
+# Evaluation Operators – $regex, $expr, $jsonSchema
 
-> Part of the MongoDB Professional Notes series.
+Regular expressions, aggregation expressions, JSON schema validation.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Array Operators – $all, $elemMatch, $size](05-array-operators-all-elemMatch-size.md)

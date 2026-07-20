@@ -1,23 +1,5 @@
-# Element Operators Exists Type
+# Element Operators – $exists, $type
 
-> Part of the MongoDB Professional Notes series.
+Check field presence or type.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Evaluation Operators – $regex, $expr, $jsonSchema](04-evaluation-operators-regex-expr-jsonSchema.md)
