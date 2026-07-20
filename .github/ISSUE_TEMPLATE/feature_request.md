@@ -1,23 +1,11 @@
-# Feature_Request
+---
+name: Feature request
+about: Suggest an idea
+title: "[FEATURE] "
+assignees: ""
+---
 
-> Part of the MongoDB Professional Notes series.
-
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+**Is your feature request related to a problem?**
+**Describe the solution**
+**Alternatives considered**
+**Additional context**
