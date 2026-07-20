@@ -1,23 +1,5 @@
-# Json And Bson Basics
+# JSON & BSON Basics
 
-> Part of the MongoDB Professional Notes series.
+MongoDB stores data as BSON (Binary JSON). JSON is human‑readable; BSON is efficient for machines.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Installing MongoDB & Compass](03-installing-mongodb-and-compass.md)

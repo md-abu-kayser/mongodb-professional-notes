@@ -1,23 +1,5 @@
-# Nosql Vs Sql Databases
+# NoSQL vs SQL Databases
 
-> Part of the MongoDB Professional Notes series.
+NoSQL (MongoDB) offers flexible schemas, horizontal scaling, and document‑oriented storage versus relational tables.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [JSON & BSON Basics](02-json-and-bson-basics.md)
