@@ -1,23 +1,16 @@
-# Bug_Report
+---
+name: Bug report
+about: Report a MongoDB‑related issue
+title: "[BUG] "
+labels: bug
+assignees: ""
+---
 
-> Part of the MongoDB Professional Notes series.
+**Describe the bug**
+**To Reproduce**
+**Expected behavior**
+**Environment:**
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+- MongoDB version:
+- Driver / ODM version:
+- OS:
