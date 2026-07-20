@@ -1,23 +1,5 @@
-# Installing Mongodb And Compass
+# Installing MongoDB & Compass
 
-> Part of the MongoDB Professional Notes series.
+Download Community Server, Compass GUI. Use Docker: `docker run -d -p 27017:27017 mongo`.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Command Line & mongosh](04-command-line-and-mongosh.md)
