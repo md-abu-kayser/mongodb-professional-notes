@@ -1,23 +1,5 @@
-# Command Line And Mongosh
+# Command Line & mongosh
 
-> Part of the MongoDB Professional Notes series.
+`mongosh` interactive shell. Connect, run queries, show databases.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: **01-fundamentals** – [What is MongoDB?](../01-fundamentals/01-what-is-mongodb.md)
