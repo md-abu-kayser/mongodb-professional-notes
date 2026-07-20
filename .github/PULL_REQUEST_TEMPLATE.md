@@ -1,23 +1,15 @@
-# Pull_Request_Template
+## Description
 
-> Part of the MongoDB Professional Notes series.
+Fixes # (issue)
 
-## Overview
+## Type of change
 
-TODO: add notes here.
+- [ ] Bug fix
+- [ ] New feature
+- [ ] Documentation update
+- [ ] Code refactor
 
-## Key Points
+## Checklist
 
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+- [ ] My code follows style guidelines
+- [ ] I have performed a self-review
