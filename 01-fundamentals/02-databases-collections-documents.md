@@ -1,23 +1,5 @@
-# Databases Collections Documents
+# Databases, Collections, Documents
 
-> Part of the MongoDB Professional Notes series.
+Database → Collections → Documents. A document is a JSON‑like BSON record.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Document Structure & Schema Flexibility](03-document-structure-and-schema-flexibility.md)

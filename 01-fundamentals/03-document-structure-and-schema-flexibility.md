@@ -1,23 +1,5 @@
-# Document Structure And Schema Flexibility
+# Document Structure & Schema Flexibility
 
-> Part of the MongoDB Professional Notes series.
+Documents can have different fields. MongoDB is schema‑less but you can enforce validation.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Creating & Dropping Databases/Collections](04-creating-and-dropping-databases-collections.md)
