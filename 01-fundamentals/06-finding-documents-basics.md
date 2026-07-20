@@ -1,23 +1,5 @@
-# Finding Documents Basics
+# Finding Documents – Basics
 
-> Part of the MongoDB Professional Notes series.
+`find()`, `findOne()`. Cursors, iteration.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: **02-crud-operations** – [Query Filtering & Comparison Operators](../02-crud-operations/01-query-filtering-and-comparison-operators.md)
