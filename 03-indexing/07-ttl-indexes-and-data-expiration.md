@@ -1,23 +1,5 @@
-# Ttl Indexes And Data Expiration
+# TTL Indexes & Data Expiration
 
-> Part of the MongoDB Professional Notes series.
+Automatically delete documents after a specified time.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Partial & Sparse Indexes](08-partial-and-sparse-indexes.md)

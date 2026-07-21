@@ -1,23 +1,5 @@
-# Index Intersection And Covering Queries
+# Index Intersection & Covering Queries
 
-> Part of the MongoDB Professional Notes series.
+MongoDB can combine indexes. Covering query: all fields in index.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Explain Plans & Index Usage](10-explain-plans-and-index-usage.md)

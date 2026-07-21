@@ -1,23 +1,5 @@
-# Partial And Sparse Indexes
+# Partial & Sparse Indexes
 
-> Part of the MongoDB Professional Notes series.
+Index only documents matching a filter, or only if the field exists.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Index Intersection & Covering Queries](09-index-intersection-and-covering-queries.md)

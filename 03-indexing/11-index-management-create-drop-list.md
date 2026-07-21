@@ -1,23 +1,5 @@
-# Index Management Create Drop List
+# Index Management
 
-> Part of the MongoDB Professional Notes series.
+`createIndex()`, `dropIndex()`, `getIndexes()`.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: **04-aggregation-framework** – [Introduction to Aggregation Pipeline](../04-aggregation-framework/01-introduction-to-aggregation-pipeline.md)

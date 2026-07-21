@@ -1,23 +1,5 @@
-# Explain Plans And Index Usage
+# Explain Plans & Index Usage
 
-> Part of the MongoDB Professional Notes series.
+`explain("executionStats")` to see query performance.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Index Management – create, drop, list](11-index-management-create-drop-list.md)

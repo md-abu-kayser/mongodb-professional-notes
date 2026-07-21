@@ -1,23 +1,5 @@
 # Wildcard Indexes
 
-> Part of the MongoDB Professional Notes series.
+Index fields with unknown names. `createIndex({ "$**": 1 })`.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [TTL Indexes & Data Expiration](07-ttl-indexes-and-data-expiration.md)
