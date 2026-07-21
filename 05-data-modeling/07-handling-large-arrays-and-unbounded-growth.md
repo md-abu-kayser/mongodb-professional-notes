@@ -1,23 +1,5 @@
-# Handling Large Arrays And Unbounded Growth
+# Handling Large Arrays & Unbounded Growth
 
-> Part of the MongoDB Professional Notes series.
+Use separate collections, avoid unbounded arrays.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: **06-transactions** – [ACID in MongoDB](../06-transactions/01-acid-in-mongodb.md)
