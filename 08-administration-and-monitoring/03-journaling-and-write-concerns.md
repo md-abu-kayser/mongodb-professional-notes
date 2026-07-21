@@ -1,23 +1,5 @@
-# Journaling And Write Concerns
+# Journaling & Write Concerns
 
-> Part of the MongoDB Professional Notes series.
+Durability guarantee. `w: majority`, `j: true`.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Backup & Restore – mongodump, mongorestore](04-backup-and-restore-mongodump-mongorestore.md)

@@ -1,23 +1,5 @@
-# Storage Engines Wiredtiger In Memory
+# Storage Engines
 
-> Part of the MongoDB Professional Notes series.
+WiredTiger (default), In‑Memory. Compression, concurrency.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Journaling & Write Concerns](03-journaling-and-write-concerns.md)
