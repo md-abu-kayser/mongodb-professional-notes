@@ -1,23 +1,5 @@
-# Transactions In Replica Sets And Shards
+# Transactions in Replica Sets & Shards
 
-> Part of the MongoDB Professional Notes series.
+Write concern `majority`, retryable writes.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Transaction Limits & Best Practices](04-transaction-limits-and-best-practices.md)
