@@ -1,23 +1,5 @@
-# Mongod Configuration File
+# mongod Configuration File
 
-> Part of the MongoDB Professional Notes series.
+YAML structure: `systemLog`, `storage`, `net`, `security`.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Storage Engines – WiredTiger, In‑Memory](02-storage-engines-wiredTiger-in-memory.md)
