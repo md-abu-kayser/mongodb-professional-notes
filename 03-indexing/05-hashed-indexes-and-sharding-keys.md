@@ -1,23 +1,5 @@
-# Hashed Indexes And Sharding Keys
+# Hashed Indexes & Sharding Keys
 
-> Part of the MongoDB Professional Notes series.
+`createIndex({ _id: "hashed" })`. Distributes data evenly in sharding.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Wildcard Indexes](06-wildcard-indexes.md)

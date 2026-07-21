@@ -1,23 +1,5 @@
-# Geospatial Indexes 2D 2Dsphere
+# Geospatial Indexes – 2d, 2dsphere
 
-> Part of the MongoDB Professional Notes series.
+Support `$near`, `$geoWithin`.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Hashed Indexes & Sharding Keys](05-hashed-indexes-and-sharding-keys.md)
