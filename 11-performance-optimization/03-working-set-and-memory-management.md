@@ -1,23 +1,5 @@
-# Working Set And Memory Management
+# Working Set & Memory Management
 
-> Part of the MongoDB Professional Notes series.
+Keep frequently accessed data in RAM. WiredTiger cache.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Cursor Methods & Timeouts](04-cursor-methods-and-timeouts.md)

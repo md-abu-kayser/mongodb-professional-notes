@@ -1,23 +1,5 @@
-# Cursor Methods And Timeouts
+# Cursor Methods & Timeouts
 
-> Part of the MongoDB Professional Notes series.
+`noCursorTimeout`, `maxTimeMS`.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Bulk Writes & Pipeline Optimization](05-bulk-writes-and-pipeline-optimization.md)
