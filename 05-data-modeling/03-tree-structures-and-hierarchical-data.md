@@ -1,23 +1,5 @@
-# Tree Structures And Hierarchical Data
+# Tree Structures & Hierarchical Data
 
-> Part of the MongoDB Professional Notes series.
+Parent references, child references, materialized paths, nested sets.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Bucket Pattern & Computed Pattern](04-bucket-pattern-and-computed-pattern.md)

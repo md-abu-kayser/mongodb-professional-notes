@@ -1,23 +1,5 @@
-# One To One One To Many Many To Many
+# Relationship Patterns
 
-> Part of the MongoDB Professional Notes series.
+Design decisions for embedding or referencing.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Tree Structures & Hierarchical Data](03-tree-structures-and-hierarchical-data.md)

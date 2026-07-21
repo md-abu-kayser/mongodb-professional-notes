@@ -1,23 +1,5 @@
-# Bucket Pattern And Computed Pattern
+# Bucket Pattern & Computed Pattern
 
-> Part of the MongoDB Professional Notes series.
+Group related data, pre‑calculate aggregates.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Polymorphic Schema Patterns](05-polymorphic-schema-patterns.md)

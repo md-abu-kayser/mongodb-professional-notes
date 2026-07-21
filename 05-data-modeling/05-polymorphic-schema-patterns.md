@@ -1,23 +1,5 @@
 # Polymorphic Schema Patterns
 
-> Part of the MongoDB Professional Notes series.
+Different document shapes in same collection.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Schema Versioning & Migration Strategies](06-schema-versioning-and-migration-strategies.md)

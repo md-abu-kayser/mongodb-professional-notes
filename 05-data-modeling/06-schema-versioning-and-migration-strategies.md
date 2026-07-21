@@ -1,23 +1,5 @@
-# Schema Versioning And Migration Strategies
+# Schema Versioning & Migration
 
-> Part of the MongoDB Professional Notes series.
+Add `schema_version` field, handle migration scripts.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Handling Large Arrays & Unbounded Growth](07-handling-large-arrays-and-unbounded-growth.md)

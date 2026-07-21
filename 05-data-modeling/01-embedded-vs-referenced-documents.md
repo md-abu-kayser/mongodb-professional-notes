@@ -1,23 +1,5 @@
-# Embedded Vs Referenced Documents
+# Embedded vs Referenced Documents
 
-> Part of the MongoDB Professional Notes series.
+Embed for read performance, reference for normalization.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [One‑to‑One, One‑to‑Many, Many‑to‑Many](02-one-to-one-one-to-many-many-to-many.md)
