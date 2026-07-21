@@ -1,23 +1,5 @@
-# Atlas Data Lake And Federated Queries
+# Atlas Data Lake & Federated Queries
 
-> Part of the MongoDB Professional Notes series.
+Query data across S3, Atlas clusters.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Atlas Functions & Realm Triggers](05-atlas-functions-and-realm-triggers.md)

@@ -1,23 +1,5 @@
-# Atlas Device Sync For Mobile
+# Atlas Device Sync
 
-> Part of the MongoDB Professional Notes series.
+Synchronize data between mobile and backend.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Atlas CLI & Automation](07-atlas-cli-and-automation.md)

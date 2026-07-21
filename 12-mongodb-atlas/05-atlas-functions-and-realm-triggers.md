@@ -1,23 +1,5 @@
-# Atlas Functions And Realm Triggers
+# Atlas Functions & Realm Triggers
 
-> Part of the MongoDB Professional Notes series.
+Serverless functions with MongoDB triggers, change streams.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Atlas Device Sync for Mobile](06-atlas-device-sync-for-mobile.md)

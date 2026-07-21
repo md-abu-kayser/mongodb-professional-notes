@@ -1,23 +1,5 @@
-# Atlas Cli And Automation
+# Atlas CLI & Automation
 
-> Part of the MongoDB Professional Notes series.
+`atlas` CLI for managing clusters programmatically.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: **13-mongodb-with-nodejs** – [MongoDB Native Driver Setup](../13-mongodb-with-nodejs/01-mongodb-native-driver-setup.md)

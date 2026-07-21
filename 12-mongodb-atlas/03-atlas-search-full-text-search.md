@@ -1,23 +1,5 @@
-# Atlas Search Full Text Search
+# Atlas Search
 
-> Part of the MongoDB Professional Notes series.
+Full‑text search with Lucene engine. Autocomplete, fuzzy.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Atlas Data Lake & Federated Queries](04-atlas-data-lake-and-federated-queries.md)

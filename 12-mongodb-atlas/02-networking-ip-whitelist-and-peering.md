@@ -1,23 +1,5 @@
-# Networking Ip Whitelist And Peering
+# Networking – IP Whitelist & Peering
 
-> Part of the MongoDB Professional Notes series.
+Security groups, VPC peering, private endpoints.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Atlas Search – Full‑Text Search](03-atlas-search-full-text-search.md)

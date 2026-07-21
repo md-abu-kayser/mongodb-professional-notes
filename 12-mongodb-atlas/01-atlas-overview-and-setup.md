@@ -1,23 +1,5 @@
-# Atlas Overview And Setup
+# Atlas Overview & Setup
 
-> Part of the MongoDB Professional Notes series.
+Fully managed MongoDB on AWS, GCP, Azure. Create cluster, connect.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Networking – IP Whitelist & Peering](02-networking-ip-whitelist-and-peering.md)
