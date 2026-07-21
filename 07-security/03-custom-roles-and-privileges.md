@@ -1,23 +1,5 @@
-# Custom Roles And Privileges
+# Custom Roles & Privileges
 
-> Part of the MongoDB Professional Notes series.
+Create roles with specific actions on specific resources.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Field‑Level Redaction & Client‑Side Encryption](04-field-level-redaction-and-client-side-encryption.md)

@@ -1,23 +1,5 @@
-# Network Compression And Firewalls
+# Network Compression & Firewalls
 
-> Part of the MongoDB Professional Notes series.
+Use `compressors` option, configure firewalls.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Injection Attacks & Input Validation](08-injection-attacks-and-input-validation.md)

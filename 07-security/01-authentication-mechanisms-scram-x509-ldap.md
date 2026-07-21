@@ -1,23 +1,5 @@
-# Authentication Mechanisms Scram X509 Ldap
+# Authentication Mechanisms
 
-> Part of the MongoDB Professional Notes series.
+SCRAM‑SHA‑256, x.509 certificates, LDAP.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Role‑Based Access Control (RBAC)](02-role-based-access-control-rbac.md)

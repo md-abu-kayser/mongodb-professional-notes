@@ -1,23 +1,5 @@
-# Role Based Access Control Rbac
+# RBAC
 
-> Part of the MongoDB Professional Notes series.
+Built‑in roles: read, readWrite, dbAdmin, userAdmin. Grant privileges.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Custom Roles & Privileges](03-custom-roles-and-privileges.md)

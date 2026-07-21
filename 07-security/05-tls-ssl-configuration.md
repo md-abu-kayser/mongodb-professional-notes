@@ -1,23 +1,5 @@
-# Tls Ssl Configuration
+# TLS/SSL Configuration
 
-> Part of the MongoDB Professional Notes series.
+Configure `net.tls` in mongod.conf.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Auditing & Logging](06-auditing-and-logging.md)

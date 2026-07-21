@@ -1,23 +1,5 @@
-# Injection Attacks And Input Validation
+# Injection Attacks & Input Validation
 
-> Part of the MongoDB Professional Notes series.
+Avoid `$where` with user input, validate and sanitize.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: **08-administration-and-monitoring** – [mongod Configuration File](../08-administration-and-monitoring/01-mongod-configuration-file.md)

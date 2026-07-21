@@ -1,23 +1,5 @@
-# Field Level Redaction And Client Side Encryption
+# Field‑Level Redaction & Client‑Side Encryption
 
-> Part of the MongoDB Professional Notes series.
+Limit field visibility. Encrypt sensitive data at client side.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [TLS/SSL Configuration](05-tls-ssl-configuration.md)
