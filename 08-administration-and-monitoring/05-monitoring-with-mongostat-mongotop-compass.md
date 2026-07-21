@@ -1,23 +1,5 @@
-# Monitoring With Mongostat Mongotop Compass
+# Monitoring Tools
 
-> Part of the MongoDB Professional Notes series.
+`mongostat`, `mongotop`, Compass performance tab, Cloud Manager.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Server Logs & Profiling](06-server-logs-and-profiling.md)

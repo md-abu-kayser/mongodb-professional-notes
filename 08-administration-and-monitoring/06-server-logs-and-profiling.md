@@ -1,23 +1,5 @@
-# Server Logs And Profiling
+# Server Logs & Profiling
 
-> Part of the MongoDB Professional Notes series.
+`db.setProfilingLevel(2)`. Analyze slow queries.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Ops Manager & Cloud Manager](07-ops-manager-and-cloud-manager.md)
