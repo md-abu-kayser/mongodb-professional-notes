@@ -1,23 +1,5 @@
-# Single Field And Compound Indexes
+# Single Field & Compound Indexes
 
-> Part of the MongoDB Professional Notes series.
+`createIndex({ name: 1 })`, `{ name: 1, age: -1 }`. Supports prefix queries.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Multikey Indexes on Arrays](02-multikey-indexes-on-arrays.md)

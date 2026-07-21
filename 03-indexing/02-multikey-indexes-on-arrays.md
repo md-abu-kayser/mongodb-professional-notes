@@ -1,23 +1,5 @@
-# Multikey Indexes On Arrays
+# Multikey Indexes on Arrays
 
-> Part of the MongoDB Professional Notes series.
+Index each element of an array. Important: only one array field per compound index.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Text Indexes & Full‑Text Search](03-text-indexes-and-full-text-search.md)

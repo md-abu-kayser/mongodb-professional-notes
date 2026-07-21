@@ -1,23 +1,5 @@
-# Text Indexes And Full Text Search
+# Text Indexes & Full‑Text Search
 
-> Part of the MongoDB Professional Notes series.
+`createIndex({ body: "text" })`, `$text` operator.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Geospatial Indexes – 2d, 2dsphere](04-geospatial-indexes-2d-2dsphere.md)
