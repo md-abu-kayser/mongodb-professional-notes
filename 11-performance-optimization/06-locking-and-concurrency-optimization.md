@@ -1,23 +1,5 @@
-# Locking And Concurrency Optimization
+# Locking & Concurrency Optimization
 
-> Part of the MongoDB Professional Notes series.
+Document‑level locking in WiredTiger. Use sharding for write scalability.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: **12-mongodb-atlas** – [Atlas Overview & Setup](../12-mongodb-atlas/01-atlas-overview-and-setup.md)

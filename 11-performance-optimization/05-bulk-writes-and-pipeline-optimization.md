@@ -1,23 +1,5 @@
-# Bulk Writes And Pipeline Optimization
+# Bulk Writes & Pipeline Optimization
 
-> Part of the MongoDB Professional Notes series.
+Ordered vs unordered bulk. Optimize aggregation stages order.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Locking & Concurrency Optimization](06-locking-and-concurrency-optimization.md)
