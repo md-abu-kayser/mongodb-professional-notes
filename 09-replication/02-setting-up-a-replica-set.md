@@ -1,23 +1,5 @@
-# Setting Up A Replica Set
+# Setting Up a Replica Set
 
-> Part of the MongoDB Professional Notes series.
+`rs.initiate()`, `rs.add("host:port")`.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Elections & Failover](03-elections-and-failover.md)

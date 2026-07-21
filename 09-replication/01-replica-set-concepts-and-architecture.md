@@ -1,23 +1,5 @@
-# Replica Set Concepts And Architecture
+# Replica Set Concepts & Architecture
 
-> Part of the MongoDB Professional Notes series.
+Primary, secondaries, arbiter. Heartbeats, elections.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Setting Up a Replica Set](02-setting-up-a-replica-set.md)
