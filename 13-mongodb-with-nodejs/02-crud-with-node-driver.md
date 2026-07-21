@@ -1,23 +1,5 @@
-# Crud With Node Driver
+# CRUD with Node Driver
 
-> Part of the MongoDB Professional Notes series.
+`find()`, `insertOne()`, `updateOne()`, `deleteMany()`. Promises and async/await.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Connection Pooling & Singleton Pattern](03-connection-pooling-and-singleton-pattern.md)
