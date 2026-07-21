@@ -1,23 +1,5 @@
-# Mongodb Native Driver Setup
+# MongoDB Native Driver Setup
 
-> Part of the MongoDB Professional Notes series.
+`npm install mongodb`. Connect using `MongoClient`.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [CRUD with Node Driver](02-crud-with-node-driver.md)
