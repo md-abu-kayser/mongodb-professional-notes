@@ -1,23 +1,5 @@
-# Upgrading Mongodb Versions
+# Upgrading MongoDB Versions
 
-> Part of the MongoDB Professional Notes series.
+Follow upgrade path, check compatibility.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: **09-replication** – [Replica Set Concepts & Architecture](../09-replication/01-replica-set-concepts-and-architecture.md)

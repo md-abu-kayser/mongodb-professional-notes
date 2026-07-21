@@ -1,23 +1,5 @@
-# Ops Manager And Cloud Manager
+# Ops Manager & Cloud Manager
 
-> Part of the MongoDB Professional Notes series.
+Enterprise management, backup, automation.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Upgrading MongoDB Versions](08-upgrading-mongodb-versions.md)
