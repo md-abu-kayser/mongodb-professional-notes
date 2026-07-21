@@ -1,23 +1,5 @@
-# Elections And Failover
+# Elections & Failover
 
-> Part of the MongoDB Professional Notes series.
+Automatic primary election when primary fails. Timeout tuning.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Write/Read Concerns & Preferences](04-write-read-concerns-and-preferences.md)

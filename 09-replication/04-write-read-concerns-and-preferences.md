@@ -1,23 +1,5 @@
-# Write Read Concerns And Preferences
+# Write/Read Concerns & Preferences
 
-> Part of the MongoDB Professional Notes series.
+`w: majority`, `readPreference: secondaryPreferred`.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Oplog & Recovery](05-oplog-and-recovery.md)
