@@ -1,23 +1,5 @@
-# Query Optimization With Indexes
+# Query Optimization with Indexes
 
-> Part of the MongoDB Professional Notes series.
+Use the right indexes, analyze explain plans.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Profiling & Slow Query Analysis](02-profiling-and-slow-query-analysis.md)

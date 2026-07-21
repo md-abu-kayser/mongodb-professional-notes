@@ -1,23 +1,5 @@
-# Profiling And Slow Query Analysis
+# Profiling & Slow Query Analysis
 
-> Part of the MongoDB Professional Notes series.
+Enable profiling, `db.currentOp()`, `db.killOp()`.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Working Set & Memory Management](03-working-set-and-memory-management.md)
