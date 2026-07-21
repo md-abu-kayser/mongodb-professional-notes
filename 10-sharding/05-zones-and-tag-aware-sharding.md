@@ -1,23 +1,5 @@
-# Zones And Tag Aware Sharding
+# Zones & Tag‑Aware Sharding
 
-> Part of the MongoDB Professional Notes series.
+Pin data to specific shards (geo, hardware).
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Balancing & Chunk Migration](06-balancing-and-chunk-migration.md)

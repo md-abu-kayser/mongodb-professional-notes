@@ -1,23 +1,5 @@
-# Balancing And Chunk Migration
+# Balancing & Chunk Migration
 
-> Part of the MongoDB Professional Notes series.
+Balancer distributes chunks automatically.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Managing & Monitoring Sharded Clusters](07-managing-and-monitoring-sharded-clusters.md)

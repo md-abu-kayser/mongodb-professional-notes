@@ -1,23 +1,5 @@
-# Shard Keys Selection And Cardinality
+# Shard Key Selection & Cardinality
 
-> Part of the MongoDB Professional Notes series.
+High cardinality, even distribution. Avoid hot shards.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Ranged vs Hashed Sharding](03-ranged-vs-hashed-sharding.md)

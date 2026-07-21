@@ -1,23 +1,5 @@
-# Managing And Monitoring Sharded Clusters
+# Managing & Monitoring Sharded Clusters
 
-> Part of the MongoDB Professional Notes series.
+`sh.status()`, `mongos` logs, monitoring balancer.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: **11-performance-optimization** – [Query Optimization with Indexes](../11-performance-optimization/01-query-optimization-with-indexes.md)

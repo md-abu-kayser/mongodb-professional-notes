@@ -1,23 +1,5 @@
-# Ranged Vs Hashed Sharding
+# Ranged vs Hashed Sharding
 
-> Part of the MongoDB Professional Notes series.
+Ranged for range queries; hashed for uniform spread.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Config Servers & mongos Router](04-config-servers-and-mongos-router.md)

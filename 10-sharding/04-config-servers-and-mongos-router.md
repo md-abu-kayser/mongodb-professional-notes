@@ -1,23 +1,5 @@
-# Config Servers And Mongos Router
+# Config Servers & mongos Router
 
-> Part of the MongoDB Professional Notes series.
+Config servers store metadata. Mongos routes queries.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Zones & Tag‑Aware Sharding](05-zones-and-tag-aware-sharding.md)

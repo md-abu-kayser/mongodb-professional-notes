@@ -1,23 +1,5 @@
-# Sharding Concepts And Architecture
+# Sharding Concepts & Architecture
 
-> Part of the MongoDB Professional Notes series.
+Horizontal scaling across multiple servers. Shards, config servers, mongos routers.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Shard Key Selection & Cardinality](02-shard-keys-selection-and-cardinality.md)
