@@ -1,23 +1,5 @@
-# Multi Document Transactions
+# Multi‑Document Transactions
 
-> Part of the MongoDB Professional Notes series.
+Use `session.startTransaction()`, `commitTransaction()`, `abortTransaction()`.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Transactions in Replica Sets & Shards](03-transactions-in-replica-sets-and-shards.md)

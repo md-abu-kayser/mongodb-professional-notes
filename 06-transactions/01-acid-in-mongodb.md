@@ -1,23 +1,5 @@
-# Acid In Mongodb
+# ACID in MongoDB
 
-> Part of the MongoDB Professional Notes series.
+MongoDB supports ACID transactions since version 4.0 (replica sets) and 4.2 (sharded clusters).
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Multi‑Document Transactions](02-multi-document-transactions.md)
