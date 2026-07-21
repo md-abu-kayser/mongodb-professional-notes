@@ -1,23 +1,5 @@
-# Mongoose Odm Basics
+# Mongoose ODM Basics
 
-> Part of the MongoDB Professional Notes series.
+`npm install mongoose`. Schema, Model.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Schemas, Models & Middleware in Mongoose](05-schemas-models-and-middleware-in-mongoose.md)

@@ -1,23 +1,5 @@
-# Mongoose Vs Native Driver
+# Mongoose vs Native Driver
 
-> Part of the MongoDB Professional Notes series.
+Mongoose adds schema validation, helpers; native driver is lighter.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: **14-integrations-and-frameworks** – [MongoDB with Next.js & Prisma](../14-integrations-and-frameworks/01-mongodb-with-nextjs-and-prisma.md)

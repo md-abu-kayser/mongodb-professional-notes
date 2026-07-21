@@ -1,23 +1,5 @@
-# Advanced Queries With Mongoose
+# Advanced Queries with Mongoose
 
-> Part of the MongoDB Professional Notes series.
+Population, query helpers, aggregation builder.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Mongoose vs Native Driver](07-mongoose-vs-native-driver.md)

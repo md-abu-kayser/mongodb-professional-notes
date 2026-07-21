@@ -1,23 +1,5 @@
-# Schemas Models And Middleware In Mongoose
+# Schemas, Models & Middleware
 
-> Part of the MongoDB Professional Notes series.
+Validation, hooks (pre/post save), virtuals.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Advanced Queries with Mongoose](06-advanced-queries-with-mongoose.md)

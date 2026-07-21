@@ -1,23 +1,5 @@
-# Connection Pooling And Singleton Pattern
+# Connection Pooling & Singleton
 
-> Part of the MongoDB Professional Notes series.
+`MongoClient` maintains pool. Use a singleton to share across app.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Mongoose ODM Basics](04-mongoose-odm-basics.md)
