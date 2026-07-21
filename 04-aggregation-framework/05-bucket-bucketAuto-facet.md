@@ -1,23 +1,5 @@
-# Bucket Bucketauto Facet
+# $bucket, $bucketAuto, $facet
 
-> Part of the MongoDB Professional Notes series.
+Group into ranges, multi‑faceted analysis.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Accumulators – $sum, $avg, $push, $addToSet](06-accumulators-sum-avg-push-addToSet.md)

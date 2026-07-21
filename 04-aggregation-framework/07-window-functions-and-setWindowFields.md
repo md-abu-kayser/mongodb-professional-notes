@@ -1,23 +1,5 @@
-# Window Functions And Setwindowfields
+# Window Functions & $setWindowFields
 
-> Part of the MongoDB Professional Notes series.
+Compute moving averages, ranks, etc.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [$unionWith & $merge](08-unionWith-and-merge.md)

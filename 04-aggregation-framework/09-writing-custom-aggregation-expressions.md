@@ -1,23 +1,5 @@
-# Writing Custom Aggregation Expressions
+# Custom Aggregation Expressions
 
-> Part of the MongoDB Professional Notes series.
+`$function`, `$accumulator` for JavaScript logic.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Performance Optimization in Aggregations](10-performance-optimization-in-aggregations.md)

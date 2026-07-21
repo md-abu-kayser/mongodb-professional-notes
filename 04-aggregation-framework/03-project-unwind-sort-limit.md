@@ -1,23 +1,5 @@
-# Project Unwind Sort Limit
+# $project, $unwind, $sort, $limit
 
-> Part of the MongoDB Professional Notes series.
+Reshape documents, expand arrays, order results.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [$lookup (Join) & $graphLookup](04-lookup-join-and-graphlookup.md)

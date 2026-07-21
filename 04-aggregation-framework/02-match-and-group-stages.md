@@ -1,23 +1,5 @@
-# Match And Group Stages
+# $match & $group Stages
 
-> Part of the MongoDB Professional Notes series.
+Filter and compute aggregations (sum, avg, count).
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [$project, $unwind, $sort, $limit](03-project-unwind-sort-limit.md)

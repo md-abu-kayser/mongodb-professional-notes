@@ -1,23 +1,5 @@
-# Accumulators Sum Avg Push Addtoset
+# Accumulators
 
-> Part of the MongoDB Professional Notes series.
+Common operators for `$group`.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Window Functions & $setWindowFields](07-window-functions-and-setWindowFields.md)

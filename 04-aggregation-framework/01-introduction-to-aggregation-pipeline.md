@@ -1,23 +1,5 @@
-# Introduction To Aggregation Pipeline
+# Introduction to Aggregation Pipeline
 
-> Part of the MongoDB Professional Notes series.
+Process and transform documents through stages: `$match`, `$group`, `$sort`, etc.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [$match & $group Stages](02-match-and-group-stages.md)

@@ -1,23 +1,5 @@
-# Unionwith And Merge
+# $unionWith & $merge
 
-> Part of the MongoDB Professional Notes series.
+Combine collections. Write results to existing collection.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Writing Custom Aggregation Expressions](09-writing-custom-aggregation-expressions.md)

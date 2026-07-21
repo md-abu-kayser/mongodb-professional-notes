@@ -1,23 +1,5 @@
-# Performance Optimization In Aggregations
+# Aggregation Performance Optimization
 
-> Part of the MongoDB Professional Notes series.
+Use indexes, early filtering, `allowDiskUse`.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: **05-data-modeling** – [Embedded vs Referenced Documents](../05-data-modeling/01-embedded-vs-referenced-documents.md)

@@ -1,23 +1,5 @@
-# Lookup Join And Graphlookup
+# $lookup (Join) & $graphLookup
 
-> Part of the MongoDB Professional Notes series.
+Join collections and traverse graphs.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [$bucket, $bucketAuto, $facet](05-bucket-bucketAuto-facet.md)
