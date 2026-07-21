@@ -1,23 +1,5 @@
-# Replica Set Maintenance And Reconfiguration
+# Replica Set Maintenance & Reconfiguration
 
-> Part of the MongoDB Professional Notes series.
+Replace nodes, adjust priority, hidden members.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: **10-sharding** – [Sharding Concepts & Architecture](../10-sharding/01-sharding-concepts-and-architecture.md)

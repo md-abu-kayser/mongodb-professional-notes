@@ -1,23 +1,5 @@
-# Oplog And Recovery
+# Oplog & Recovery
 
-> Part of the MongoDB Professional Notes series.
+Capped collection recording all operations. Secondaries apply oplog entries.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Replica Set Maintenance & Reconfiguration](06-replica-set-maintenance-and-reconfiguration.md)
