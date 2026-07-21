@@ -1,23 +1,5 @@
-# Backup And Restore Mongodump Mongorestore
+# Backup & Restore
 
-> Part of the MongoDB Professional Notes series.
+Logical backups: `mongodump`, `mongorestore`. For large DBs use filesystem snapshots.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Monitoring – mongostat, mongotop, Compass](05-monitoring-with-mongostat-mongotop-compass.md)
