@@ -1,23 +1,5 @@
-# Mongodb With Nextjs And Prisma
+# MongoDB with Next.js & Prisma
 
-> Part of the MongoDB Professional Notes series.
+Prisma adapter for MongoDB. Use in API routes or server components.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [MongoDB with Express & API Patterns](02-mongodb-with-express-and-api-patterns.md)

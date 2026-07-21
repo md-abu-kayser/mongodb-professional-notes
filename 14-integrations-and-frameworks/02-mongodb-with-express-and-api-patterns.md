@@ -1,23 +1,5 @@
-# Mongodb With Express And Api Patterns
+# MongoDB with Express & API Patterns
 
-> Part of the MongoDB Professional Notes series.
+Setup connection middleware, inject db into routes.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [MongoDB with GraphQL – Apollo Server](03-mongodb-with-graphql-apollo-server.md)
