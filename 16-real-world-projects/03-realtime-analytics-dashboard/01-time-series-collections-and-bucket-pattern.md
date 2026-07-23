@@ -1,23 +1,5 @@
-# Time Series Collections And Bucket Pattern
+# Realtime Analytics – Time‑Series Collections
 
-> Part of the MongoDB Professional Notes series.
+Create time‑series collection with `granularity`. Bucket pattern.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Aggregation Pipelines for Charts](02-aggregation-pipelines-for-charts.md)

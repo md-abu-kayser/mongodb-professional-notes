@@ -1,23 +1,5 @@
-# Aggregation Pipelines For Charts
+# Aggregation Pipelines for Charts
 
-> Part of the MongoDB Professional Notes series.
+Compute daily, hourly stats.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: **Social Media Feed** – [Fan‑out on Read vs Write Patterns](../04-social-media-feed/01-fan-out-on-read-vs-write-patterns.md)
