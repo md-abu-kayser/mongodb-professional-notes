@@ -1,23 +1,5 @@
-# Youtube Channels
+# YouTube Channels
 
-> Part of the MongoDB Professional Notes series.
-
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+- MongoDB (official)
+- Academind (MongoDB + Node.js)
+- The Net Ninja (MongoDB playlist)

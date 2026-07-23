@@ -1,23 +1,5 @@
-# Blogs Newsletters Communities
+# Blogs, Newsletters & Communities
 
-> Part of the MongoDB Professional Notes series.
-
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+- MongoDB Blog
+- MongoDB Developer Hub
+- r/mongodb, MongoDB Community Slack

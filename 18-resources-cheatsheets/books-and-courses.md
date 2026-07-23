@@ -1,23 +1,5 @@
-# Books And Courses
+# Books & Courses
 
-> Part of the MongoDB Professional Notes series.
-
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+- _MongoDB: The Definitive Guide_ by Shannon Bradshaw, Eoin Brazil, Kristina Chodorow
+- _MongoDB Applied Design Patterns_ by Rick Copeland
+- MongoDB University (free online courses)
