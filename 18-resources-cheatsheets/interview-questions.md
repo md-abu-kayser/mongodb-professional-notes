@@ -1,23 +1,6 @@
 # Interview Questions
 
-> Part of the MongoDB Professional Notes series.
-
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+- Difference between embedded and referenced data?
+- How does replica set election work?
+- Explain sharding and shard key selection.
+- How to optimize aggregation pipelines?
