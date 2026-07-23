@@ -1,23 +1,5 @@
-# Reviews And Ratings Patterns
+# Reviews & Ratings Patterns
 
-> Part of the MongoDB Professional Notes series.
+Embed top reviews, compute average rating.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: **Realtime Analytics Dashboard** – [Time‑Series Collections & Bucket Pattern](../03-realtime-analytics-dashboard/01-time-series-collections-and-bucket-pattern.md)

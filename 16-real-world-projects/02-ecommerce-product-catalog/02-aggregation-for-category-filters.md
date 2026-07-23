@@ -1,23 +1,5 @@
-# Aggregation For Category Filters
+# Aggregation for Category Filters
 
-> Part of the MongoDB Professional Notes series.
+`$facet`, `$group` for dynamic filtering.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Reviews & Ratings Patterns](03-reviews-and-ratings-patterns.md)

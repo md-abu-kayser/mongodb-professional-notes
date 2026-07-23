@@ -1,23 +1,5 @@
-# Document Model For Products Variants
+# Ecommerce Product Catalog – Document Model
 
-> Part of the MongoDB Professional Notes series.
+Product with embedded variants array.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Aggregation for Category Filters](02-aggregation-for-category-filters.md)
