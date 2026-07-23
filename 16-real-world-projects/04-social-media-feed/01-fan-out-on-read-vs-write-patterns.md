@@ -1,23 +1,5 @@
-# Fan Out On Read Vs Write Patterns
+# Social Media Feed – Fan‑out Patterns
 
-> Part of the MongoDB Professional Notes series.
+Fan‑out on write: duplicate post to each follower's feed. Fan‑out on read: query all following.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Caching & Performance](02-caching-and-performance.md)

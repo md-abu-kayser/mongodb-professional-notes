@@ -1,23 +1,5 @@
-# Caching And Performance
+# Caching & Performance
 
-> Part of the MongoDB Professional Notes series.
+Use Redis, limit feed depth.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: **IoT Data Ingestion** – [Sharding Strategies for High Write Throughput](../05-iot-data-ingestion/01-sharding-strategies-for-high-write-throughput.md)
