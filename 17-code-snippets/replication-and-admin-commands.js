@@ -1,4 +1,4 @@
-// Replication And Admin Commands
-// Part of the MongoDB Professional Notes series.
-
-// TODO: add code examples here.
+// Check replica set status
+db.adminCommand({ replSetGetStatus: 1 });
+// Add a member
+rs.add("mongod3.example.com:27017");
