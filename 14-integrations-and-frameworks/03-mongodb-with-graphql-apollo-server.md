@@ -1,23 +1,5 @@
-# Mongodb With Graphql Apollo Server
+# MongoDB with GraphQL – Apollo Server
 
-> Part of the MongoDB Professional Notes series.
+Use Mongoose models in resolvers. DataLoader for batching.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [MongoDB with Python – PyMongo, MongoEngine](04-mongodb-with-python-pymongo-mongoengine.md)
