@@ -1,23 +1,5 @@
-# Mongodb With Golang Mongo Driver
+# MongoDB with Golang – mongo‑driver
 
-> Part of the MongoDB Professional Notes series.
+Official Go driver. BSON tags, CRUD.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: **15-testing** – [Unit Testing – Database Mocks vs In‑Memory](../15-testing/01-unit-testing-database-mocks-vs-in-memory.md)

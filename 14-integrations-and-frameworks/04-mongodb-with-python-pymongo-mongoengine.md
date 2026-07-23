@@ -1,23 +1,5 @@
-# Mongodb With Python Pymongo Mongoengine
+# MongoDB with Python – PyMongo, MongoEngine
 
-> Part of the MongoDB Professional Notes series.
+PyMongo (low‑level), MongoEngine (ODM).
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [MongoDB with Java – Spring Data MongoDB](05-mongodb-with-java-spring-data-mongodb.md)

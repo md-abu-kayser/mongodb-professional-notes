@@ -1,23 +1,5 @@
-# Mongodb With Java Spring Data Mongodb
+# MongoDB with Java – Spring Data MongoDB
 
-> Part of the MongoDB Professional Notes series.
+MongoTemplate, repository interface.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [MongoDB with Golang – mongo‑driver](06-mongodb-with-golang-mongo-driver.md)
