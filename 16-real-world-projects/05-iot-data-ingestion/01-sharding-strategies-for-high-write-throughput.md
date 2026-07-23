@@ -1,23 +1,5 @@
-# Sharding Strategies For High Write Throughput
+# IoT Data Ingestion – Sharding Strategies
 
-> Part of the MongoDB Professional Notes series.
+Shard on `deviceId` with hashed shard key. Pre‑split chunks.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [TTL Indexes for Data Retention](02-ttl-indexes-for-data-retention.md)
