@@ -1,23 +1,5 @@
-# Common Errors And Solutions
+# Common Errors & Solutions
 
-> Part of the MongoDB Professional Notes series.
-
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+- `NotMaster` → write to secondary, check connection.
+- `DuplicateKey` → handle unique index violation.
+- `ExceededTimeLimit` → add index or increase `maxTimeMS`.

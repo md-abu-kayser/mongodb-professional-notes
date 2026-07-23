@@ -1,23 +1,3 @@
-# Mongodb Commands Cheatsheet
+# MongoDB Commands Cheatsheet
 
-> Part of the MongoDB Professional Notes series.
-
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+Basic CRUD, aggregation, indexing, administration commands.
