@@ -1,4 +1,7 @@
-// Mongoose Schema Templates
-// Part of the MongoDB Professional Notes series.
-
-// TODO: add code examples here.
+const mongoose = require("mongoose");
+const userSchema = new mongoose.Schema({
+  name: { type: String, required: true },
+  email: { type: String, unique: true },
+  createdAt: { type: Date, default: Date.now },
+});
+module.exports = mongoose.model("User", userSchema);
