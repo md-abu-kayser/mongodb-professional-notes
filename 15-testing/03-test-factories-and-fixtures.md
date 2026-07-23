@@ -1,23 +1,5 @@
-# Test Factories And Fixtures
+# Test Factories & Fixtures
 
-> Part of the MongoDB Professional Notes series.
+Generate test data with factory functions.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Performance & Load Testing](04-performance-and-load-testing.md)

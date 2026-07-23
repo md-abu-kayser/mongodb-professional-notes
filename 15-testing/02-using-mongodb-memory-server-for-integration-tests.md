@@ -1,23 +1,5 @@
-# Using Mongodb Memory Server For Integration Tests
+# mongodb‑memory‑server
 
-> Part of the MongoDB Professional Notes series.
+Spawn actual MongoDB for testing. Clean, isolated.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Test Factories & Fixtures](03-test-factories-and-fixtures.md)

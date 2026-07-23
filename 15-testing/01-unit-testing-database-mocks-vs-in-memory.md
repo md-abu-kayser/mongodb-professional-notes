@@ -1,23 +1,5 @@
-# Unit Testing Database Mocks Vs In Memory
+# Unit Testing – Database Mocks vs In‑Memory
 
-> Part of the MongoDB Professional Notes series.
+Mock the driver or use `mongodb-memory-server`.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Using mongodb‑memory‑server for Integration Tests](02-using-mongodb-memory-server-for-integration-tests.md)
