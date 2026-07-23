@@ -1,23 +1,5 @@
-# Text Search And Indexing
+# Blog Platform – Text Search & Indexing
 
-> Part of the MongoDB Professional Notes series.
+Create text index on title, body. Search endpoint.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: **Ecommerce Product Catalog** – [Document Model for Products & Variants](../02-ecommerce-product-catalog/01-document-model-for-products-variants.md)

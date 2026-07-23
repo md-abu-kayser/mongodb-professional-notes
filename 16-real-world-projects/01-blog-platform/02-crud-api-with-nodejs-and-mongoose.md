@@ -1,23 +1,5 @@
-# Crud Api With Nodejs And Mongoose
+# Blog Platform – CRUD API
 
-> Part of the MongoDB Professional Notes series.
+Express endpoints, Mongoose models.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [Text Search & Indexing](03-text-search-and-indexing.md)

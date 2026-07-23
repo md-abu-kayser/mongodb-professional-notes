@@ -1,23 +1,5 @@
-# Schema Design And Embedding Comments
+# Blog Platform – Schema Design & Embedding Comments
 
-> Part of the MongoDB Professional Notes series.
+`posts` collection, embed comments within post document.
 
-## Overview
-
-TODO: add notes here.
-
-## Key Points
-
-- 
-- 
-- 
-
-## Examples
-
-```js
-// example code
-```
-
-## References
-
-- 
+> 📘 Next: [CRUD API with Node.js & Mongoose](02-crud-api-with-nodejs-and-mongoose.md)
