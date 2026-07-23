@@ -1,4 +1,5 @@
-// Change Streams Listener
-// Part of the MongoDB Professional Notes series.
-
-// TODO: add code examples here.
+const collection = client.db("mydb").collection("users");
+const changeStream = collection.watch();
+changeStream.on("change", (next) => {
+  console.log("Change detected:", next);
+});
